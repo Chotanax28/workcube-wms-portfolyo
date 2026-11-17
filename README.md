@@ -1,6 +1,8 @@
 # Depo Operasyon Merkezi
 
-Masaüstü ve mobil terminaller için hazırlanan bir depo operasyon modülünün portföy özeti. Bu depo yalnızca tanıtım amaçlıdır; kaynak kod, kurulum dosyası ve çalıştırılabilir uygulama içermez.
+Bu depo yönetimi (WMS) modülü, kurumumuzda kullandığımız Workcube ERP’ye entegre olarak geliştirildi. Depo ekiplerinin masaüstünden ve mobil terminallerden satış siparişlerini takip etmesini, ürünleri barkod, lot ve raf bilgileriyle toplamasını, depolar arası sevkleri yönetmesini, sayım yapmasını ve sarf fişi hazırlamasını sağlar.
+
+Bu GitHub deposu yalnızca portföy amaçlıdır. Ekran görüntüleri anonimleştirilmiştir; kaynak kod, kurulum dosyaları ve çalıştırılabilir uygulama paylaşılmaz.
 
 ## Satış siparişleri
 
@@ -25,4 +27,3 @@ Sevk, referans veya lot numarasıyla arama; bekleyen ve teslim alınan sevkleri 
 Lot numarasından ürün bulma, depo ve raf seçme, zorunlu belge açıklamasıyla sarf kaydı hazırlama.
 
 ![Sarf ekranı](sarf.png)
-
